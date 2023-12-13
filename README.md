@@ -38,6 +38,9 @@ TfidfVectorizer: Used to convert text data into numerical features for the logis
 ## Files 📂
 
 main.py: The main Python script containing the sentiment analysis logic and GUI implementation.
+
 YOUTUBE.csv: CSV file containing YouTube comments and their sentiments.
+
 back.png: Background image for the GUI.
+
 button.png: Image used for the analysis button
