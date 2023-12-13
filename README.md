@@ -9,8 +9,8 @@ This project performs sentiment analysis on YouTube comments using a logistic re
 ## Installation 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/AsmaArrak/Youtube_comments_analyse.git
+   cd Youtube_comments_analyse
 
 ## Usage 📊
 Ensure that the necessary CSV file (YOUTUBE.csv) is present in the project directory.
