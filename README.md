@@ -32,6 +32,7 @@ The result will be displayed on the GUI, indicating whether the sentiment is pos
 The sentiment analysis is performed using the following models:
 
 Logistic Regression: The main sentiment classification model trained on the provided YouTube comments dataset.
+
 TfidfVectorizer: Used to convert text data into numerical features for the logistic regression model.
 
 ## Files 📂
